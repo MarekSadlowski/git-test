@@ -2,6 +2,6 @@
 
 #set -xv
 
-echo Dzialam!!!
+echo "Second 2 change in staging branch"
 
 exit 0
