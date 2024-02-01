@@ -2,6 +2,6 @@
 
 #set -xv
 
-echo Dzialam!!!
+echo "Firs 1 echo in develop branch"
 
 exit 0
