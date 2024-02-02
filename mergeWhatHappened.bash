@@ -2,6 +2,6 @@
 
 #set -xv
 
-echo "Second 2 change in staging branch"
+echo "Third 3 change in staging branch"
 
 exit 0
