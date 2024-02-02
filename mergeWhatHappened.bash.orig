@@ -2,6 +2,10 @@
 
 #set -xv
 
+<<<<<<< HEAD
 echo "Second 2 change in staging branch"
+=======
+echo "Firs 1 echo in develop branch"
+>>>>>>> develop
 
 exit 0
